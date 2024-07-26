@@ -1,10 +1,4 @@
-# demo-gd32v-cmake
-
-Примеры проектов для RISC-V под Windows и Linux с использованием VS Code, GCC, CMake, Ninja.
-
-Для начальной настройки окружения VS Code используйте эту статью: https://habr.com/ru/articles/713432/
-
-## Полезные ссылки
+# Полезные ссылки
 
 * [Светодиод, таймер и прерывания на RISC-V с нуля (на примере GD32VF103 и IAR C++)](https://habr.com/ru/articles/516006/)
 * [longan nano](https://github.com/machdep/longan-nano/tree/master)
